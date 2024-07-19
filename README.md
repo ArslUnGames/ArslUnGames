@@ -1,5 +1,3 @@
-- 👋 Hi, I’m ArslUnPidor.
-- 👀 I’m interested in gooning.
-- 🌱 I’m currently learning how to walk.
-
-![a](https://media1.tenor.com/m/q5Dz87IvjLgAAAAC/im-adopted-adopted.gif)
+- 👋 Hi, I’m ArslUnGames
+- 👀 I’m interested in Unity Gamedev
+- 🌱 I’m currently learning C#, C++, Python, JavaScript
