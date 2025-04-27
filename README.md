@@ -1,4 +1,4 @@
-# Console.WriteLine("Hello!");
+# Hello();
 
 ### Hi, my name is ArslUnGames
 - Doing Unity Games for straight 3 years. (But not even one is released lol)
