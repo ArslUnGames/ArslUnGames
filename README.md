@@ -6,5 +6,5 @@
 - Vibing while coding but NOT a vibecoder
 ```c#
 while(!IsDead()) KeepAlive();
-//piopimpl
+//Object reference not set to an instance of an object.
 ```
