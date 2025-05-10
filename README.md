@@ -6,5 +6,5 @@
 - Vibing while coding but NOT a vibecoder
 ```c#
 while(!IsDead()) KeepAlive();
-//Object reference not set to an instance of an object.
+//Cannot implicitly convert type 'float' to 'int'. An explicit conversion exists (are you missing a cast?)
 ```
